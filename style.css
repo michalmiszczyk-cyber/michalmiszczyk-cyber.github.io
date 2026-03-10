@@ -9,6 +9,7 @@ body {
 
 }
 
-.paraghraphs * {
+.paraghraphs p {
     display: inline;
 }
+
